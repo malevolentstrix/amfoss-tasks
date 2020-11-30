@@ -17,9 +17,9 @@ This is Jithin, fresher at Amrita School of Engineering (CAI 2020).
 | <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-11">Task-11 </a>| Poster Design) |
 | <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-14">Task-14</a> | Bandit |
 |  |  |
-| <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-05">Task-05 </a>  | Rustic Scraper(skipped) |
-| <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-06">Task-06 </a> | Geddit(skipped)|
-| <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-07">Task-07 </a>  | Ubiquitous UI(skipped) |
+| Task-05</a> | Rustic Scraper(skipped) |
+| Task-06</a>| Geddit(skipped)|
+| Task-07</a>| Ubiquitous UI(skipped) |
 
 ## About my tasks
 
