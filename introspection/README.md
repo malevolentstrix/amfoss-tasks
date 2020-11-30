@@ -4,5 +4,3 @@ Ans : Although I have only a little experience, I am serious and willing to lear
 
 b.What is your plan for the next 6 months?
 
-Ans : 
-Lot of plans
