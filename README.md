@@ -14,7 +14,7 @@ This is Jithin, fresher at Amrita School of Engineering (CAI 2020).
 | <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-08">Task-08</a> | Sir Perceval's Quest  |
 | <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-09">Task-09</a> | Spammer_Spaghetti |
 | <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-10">Task-10</a> | CS50(Only 1 pset) |
-| <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-11">Task-11 </a>| Poster Design) |
+| <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-11">Task-11 </a>| Poster Design |
 | <a href="https://github.com/jithintvm1/amfoss-tasks/tree/master/task-14">Task-14</a> | Bandit |
 |  |  |
 | Task-05</a> | Rustic Scraper(skipped) |
